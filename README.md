@@ -5,11 +5,6 @@
 [![Rating](https://img.shields.io/wordpress/plugin/r/dirtysuds-embed-pdf.svg)](https://wordpress.org/support/view/plugin-reviews/dirtysuds-embed-pdf)
 [![Downloads](https://img.shields.io/wordpress/plugin/dt/dirtysuds-embed-pdf.svg)](https://wordpress.org/plugins/dirtysuds-embed-pdf/)
 
-**Adds pseudo oembed support for PDF documents**
-
-Will embed a PDF file using Google Docs Viewer
-
-Simply include the URL for a PDF document on it's own line, or wrapped in the embed tag like `
 
 
 
