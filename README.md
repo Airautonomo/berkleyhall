@@ -14,4 +14,5 @@ https://github.com/tannerpace/scaling-golf-high/blob/main/report.pdf
 
 <h1>high quality odm assets</h1>
 
-Ground Control Points Were taken but not used during processing
+Ground Control Points Were taken but not used during processing.
+Even though the drone has a programed flight path and a image capture rate, the dji phantom 4 pro must have a constant radio link between the controller and the drone. When this link fails, the drone will continue to fly it's mission, however the camera will not trigger. This is demonstrated by the lack of data on two passes. These passes are visible on the map.
